@@ -2043,6 +2043,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.418074
+      objectReference: {fileID: 0}
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 42.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.71188796
+      objectReference: {fileID: 0}
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7022931
+      objectReference: {fileID: 0}
+    - target: {fileID: 202688995965424420, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 89.223
+      objectReference: {fileID: 0}
     - target: {fileID: 2258717137534253718, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
       propertyPath: m_LocalPosition.x
       value: -127.458336
@@ -2083,9 +2107,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023482670443213927, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556251127690075675, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5335896919535991668, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5559085755177720007, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8073883759988109543, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
       propertyPath: m_Name
       value: Enemigos
+      objectReference: {fileID: 0}
+    - target: {fileID: 8271790086947142592, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9161648827206021783, guid: ec4aaba15135fa44392e87729e8a5065, type: 3}
+      propertyPath: Respawn
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
