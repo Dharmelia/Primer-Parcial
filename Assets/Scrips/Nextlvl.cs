@@ -9,6 +9,6 @@ public class Nextlvl : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.name == "player")
-        { SceneManager.LoadScene(0); }
+        { SceneManager.LoadScene(2); }
     }
 }

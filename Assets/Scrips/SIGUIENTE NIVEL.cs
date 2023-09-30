@@ -8,7 +8,7 @@ public class SIGUIENTENIVEL : MonoBehaviour
     private void OnTriggerEnter(Collider Other)
 
     {
-        if (Other.gameObject.name == "PER")
+        if (Other.gameObject.name == "player")
         
             SceneManager.LoadScene(1);
         }
